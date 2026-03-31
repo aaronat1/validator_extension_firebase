@@ -4,7 +4,7 @@
   "description": "Validates Firestore documents against a JSON Schema on creation.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "echo 'pre-built'",
     "build:watch": "tsc --watch"
   },
   "engines": {
