@@ -1,6 +1,7 @@
 name: firestore-schema-validator
 version: 0.1.1
 specVersion: v1beta
+stage: stable
 displayName: Firestore Schema Validator
 description: >-
   Validates Firestore documents against a JSON Schema before they are written.
